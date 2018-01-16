@@ -1,5 +1,6 @@
 {
   "name": "buslead3x_root_cause_analysis",
+  "homepage":"./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
